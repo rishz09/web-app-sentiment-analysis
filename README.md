@@ -1,2 +1,2 @@
 # web-app-sentiment-analysis
-Simple web app to classify texts using Flask and HTML. Training of model done utilising IMDB movie reviews dataset and Hashing Vectorizer.
+Simple web app to classify texts using Flask and HTML. Training of model done on IMDB movie reviews dataset, utilising Hashing Vectorizer.
